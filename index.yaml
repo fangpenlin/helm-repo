@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  eth2-validator:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-17T16:52:55.1517393-08:00"
+    description: A Helm chart for Kubernetes
+    digest: a4a7c4abbf844a0039ada72ffa86fafe5cff993905692783da60384edfb89f62
+    name: eth2-validator
+    type: application
+    urls:
+    - eth2-validator-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-17T16:52:55.146454-08:00"

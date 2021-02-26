@@ -3,7 +3,18 @@ entries:
   eth2-validator:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-13T11:50:45.4166974-08:00"
+    created: "2021-02-25T21:56:59.8786838-08:00"
+    description: Helm Chart for running ETH2 validator with OpenEthereum + Lighthouse
+      on Kubernete cluster under MIT license.
+    digest: f3a3ab702dd66fde0871faf1c32de46add64837d48a505a8493dffbb15c4f672
+    name: eth2-validator
+    type: application
+    urls:
+    - eth2-validator-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-02-25T21:56:59.8731683-08:00"
     description: Helm Chart for running ETH2 validator with OpenEthereum + Lighthouse
       on Kubernete cluster under MIT license.
     digest: d83aa7b2d5e43a3f810dd2f4cc9b094abf15675603147c05f24d683f83cc5b07
@@ -14,7 +25,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-13T11:50:45.4105145-08:00"
+    created: "2021-02-25T21:56:59.8680002-08:00"
     description: Helm Chart for running ETH2 validator with OpenEthereum + Lighthouse
       on Kubernete cluster under MIT license.
     digest: 2e4879aa3b86ea92dc3a0057646bf89242abcb1d398f0250e22bb4a23c24601a
@@ -25,7 +36,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-13T11:50:45.3965413-08:00"
+    created: "2021-02-25T21:56:59.8433639-08:00"
     description: Helm Chart for running ETH2 validator with OpenEthereum + Lighthouse
       on Kubernete cluster under MIT license.
     digest: 1c8351af3a381b8029733d392139646b6b5f2b843052235dbb73f8344a9551b1
@@ -36,7 +47,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-13T11:50:45.3898824-08:00"
+    created: "2021-02-25T21:56:59.8381831-08:00"
     description: Helm Chart for running ETH2 validator with OpenEthereum + Lighthouse
       on Kubernete cluster under MIT license.
     digest: 39adc7a7689dea75e1599d3d98aaa4660fc568ab4a109d3ae1fe1adfceab7428
@@ -47,7 +58,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-13T11:50:45.3832225-08:00"
+    created: "2021-02-25T21:56:59.8217711-08:00"
     description: Helm Chart for running ETH2 validator with OpenEthereum + Lighthouse
       on Kubernete cluster under MIT license.
     digest: 60eb27cc3616818ab5cd9edfa8804170956644e87293ab82030110d21769326e
@@ -58,7 +69,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-13T11:50:45.3770859-08:00"
+    created: "2021-02-25T21:56:59.8174231-08:00"
     description: Helm Chart for running ETH2 validator with OpenEthereum + Lighthouse
       on Kubernete cluster under MIT license.
     digest: b1cb2faf2f08062e327beea2151e0f2b9c9b59c85266720b49768e126bfc3ffb
@@ -69,7 +80,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-13T11:50:45.3600554-08:00"
+    created: "2021-02-25T21:56:59.8127291-08:00"
     description: Helm Chart for running ETH2 validator with OpenEthereum + Lighthouse
       on Kubernete cluster under MIT license.
     digest: d536d5b02f7ab5fad4dc77ba7525e4a0a7d80704b89b51a5708bed6b6072596f
@@ -78,4 +89,4 @@ entries:
     urls:
     - eth2-validator-0.1.0.tgz
     version: 0.1.0
-generated: "2021-02-13T11:50:45.3419888-08:00"
+generated: "2021-02-25T21:56:59.7875324-08:00"
